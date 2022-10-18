@@ -1,0 +1,15 @@
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/bin/Debug/net6.0/lamzonJ-greaterThanOrLessThan
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/bin/Debug/net6.0/lamzonJ-greaterThanOrLessThan.deps.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/bin/Debug/net6.0/lamzonJ-greaterThanOrLessThan.runtimeconfig.json
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/bin/Debug/net6.0/lamzonJ-greaterThanOrLessThan.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/bin/Debug/net6.0/lamzonJ-greaterThanOrLessThan.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/refint/lamzonJ-greaterThanOrLessThan.dll
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.pdb
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/lamzonJ-greaterThanOrLessThan.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/Debug/net6.0/ref/lamzonJ-greaterThanOrLessThan.dll
