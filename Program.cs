@@ -18,12 +18,14 @@ while (playAgain != "no")
     string myName = Console.ReadLine();
     Console.WriteLine($"Hello {myName}");
 
+//loops until correct format is met
     while (true)
     {
         Console.WriteLine("Please enter a number");
         string num1 = Console.ReadLine();
         trueNum1 = int.TryParse(num1, out numbr1);
 
+//response to user input if correct or incorrect
         if (trueNum1 == true)
         {
             break;
@@ -34,12 +36,14 @@ while (playAgain != "no")
         }
     }
 
+//this while loops until correct format is met
     while (true)
     {
     Console.WriteLine("Please enter another number");
     string num2 = Console.ReadLine();
     trueNum2 = int.TryParse(num2, out numbr2);
 
+//response to user input if correct or incorrect
             if (trueNum2 == true)
         {
             break;
@@ -49,8 +53,6 @@ while (playAgain != "no")
             Console.WriteLine("Try again......");
         }
     }
-    // int numbr1 = Convert.ToInt32(num1);
-    // int numbr2 = Convert.ToInt32(num2);
 
     if (numbr1 > numbr2)
     {
@@ -71,6 +73,4 @@ while (playAgain != "no")
 
     playAgain = Console.ReadLine();
 }
-
-
 Console.WriteLine("Thanks for playing!");
