@@ -30,14 +30,25 @@ while (playAgain != "no")
         }
         else if (trueNum1 == false)
         {
-            Console.WriteLine("Please enter the correct format");
+            Console.WriteLine("Try again......");
         }
     }
 
+    while (true)
+    {
     Console.WriteLine("Please enter another number");
     string num2 = Console.ReadLine();
     trueNum2 = int.TryParse(num2, out numbr2);
 
+            if (trueNum2 == true)
+        {
+            break;
+        }
+        else if (trueNum2 == false)
+        {
+            Console.WriteLine("Try again......");
+        }
+    }
     // int numbr1 = Convert.ToInt32(num1);
     // int numbr2 = Convert.ToInt32(num2);
 
@@ -56,7 +67,7 @@ while (playAgain != "no")
         Console.WriteLine("These numbers are equal.");
     }
 
-    Console.WriteLine("Would you like to play again? yes/no");
+    Console.WriteLine("Press any key to play again or type no......");
 
     playAgain = Console.ReadLine();
 }
