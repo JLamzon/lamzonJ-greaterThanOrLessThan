@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/user/.nuget/packages/": {}
+    "/Users/marcelrodriguez/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/lamzonJ-greaterThanOrLessThan.csproj",
+      "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/GitRepository/lamzonJ-greaterThanOrLessThan/lamzonJ-greaterThanOrLessThan.csproj",
       "projectName": "lamzonJ-greaterThanOrLessThan",
-      "projectPath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/lamzonJ-greaterThanOrLessThan.csproj",
-      "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-GitHubChallenge/lamzonJ-greaterThanOrLessThan/obj/",
+      "projectPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/lamzonJ-greaterThanOrLessThan/lamzonJ-greaterThanOrLessThan.csproj",
+      "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
+      "outputPath": "/Users/marcelrodriguez/Codestack22-23/GitRepository/lamzonJ-greaterThanOrLessThan/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/user/.nuget/NuGet/NuGet.Config"
+        "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
